@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeRide: Smart Accident Detection and Emergency Response System
 
 Native Android final-year project demo built with Java, XML layouts, Firebase Authentication, Firestore, Google Maps, Fused Location Provider, SensorManager, local notifications, SharedPreferences, and SMS intent.
@@ -179,3 +180,6 @@ C:\Users\kiran\OneDrive\Documents\New project 2
 - For real device demos, grant location, SMS, and notification permissions when prompted.
 - The impact threshold defaults to `28`. Lower it in Profile settings for easier tabletop demo triggering.
 - SMS opens the messaging app with recipients and message filled in; the user confirms sending.
+=======
+# Saferide-Smart-Accident-detection-and-emergency-system
+>>>>>>> 9ffeab767b533a52ade280378d629e615c96f3bc
