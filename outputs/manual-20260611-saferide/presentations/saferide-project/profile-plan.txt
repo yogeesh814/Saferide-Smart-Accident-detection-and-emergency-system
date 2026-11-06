@@ -1,0 +1,8 @@
+task mode: create
+primary deck-profile: engineering-platform
+secondary profile gates: academic project presentation
+required proof objects: Android feature summary, technology stack, existing system gap comparison, level-0 DFD
+source/asset requirements: README.md, Android app metadata, local source tree
+brand authenticity constraints: use project name SafeRide and app package com.example.saferide; no external logos required
+profile-specific QA gates: technical labels must be readable; DFD must show actors, processes, data stores, and data flows
+known missing inputs: student/team details and institution name were not provided

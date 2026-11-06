@@ -1,0 +1,21 @@
+<resources>
+    <style name="Theme.SafeRide" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="fontFamily">sans</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/bg_mid</item>
+        <item name="android:navigationBarColor">@color/bg_mid</item>
+        <item name="android:colorAccent">@color/cyan</item>
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorPrimaryVariant">@color/bg_start</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="materialButtonStyle">@style/Widget.SafeRide.Button</item>
+    </style>
+
+    <style name="Widget.SafeRide.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">28dp</item>
+    </style>
+</resources>

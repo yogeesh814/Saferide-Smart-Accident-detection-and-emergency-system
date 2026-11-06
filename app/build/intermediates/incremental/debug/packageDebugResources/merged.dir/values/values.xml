@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_end">#050B12</color>
+    <color name="bg_mid">#0E2530</color>
+    <color name="bg_start">#081C24</color>
+    <color name="card_bg">#33101D27</color>
+    <color name="card_bg_strong">#70101D27</color>
+    <color name="card_stroke">#3347B8B0</color>
+    <color name="cyan">#22D3C5</color>
+    <color name="green">#6EE7B7</color>
+    <color name="input_bg">#33101A24</color>
+    <color name="muted">#AAB3C5</color>
+    <color name="muted_dark">#748096</color>
+    <color name="nav_bg">#F006101A</color>
+    <color name="red">#FF3B57</color>
+    <color name="red_dark">#C9183A</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="bottom_nav_height">78dp</dimen>
+    <dimen name="button_radius">28dp</dimen>
+    <dimen name="card_radius">24dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+    <string name="app_name">SafeRide</string>
+    <string name="google_maps_key">TODO: Add your Google Maps API key here</string>
+    <string name="smart_response">Smart Response</string>
+    <style name="Theme.SafeRide" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="fontFamily">sans</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/bg_mid</item>
+        <item name="android:navigationBarColor">@color/bg_mid</item>
+        <item name="android:colorAccent">@color/cyan</item>
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorPrimaryVariant">@color/bg_start</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="materialButtonStyle">@style/Widget.SafeRide.Button</item>
+    </style>
+    <style name="Widget.SafeRide.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">28dp</item>
+    </style>
+</resources>

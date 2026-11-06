@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_circle_green_soft.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_circle_green_soft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_meter_ring.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_meter_ring.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_nav_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_mic.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_alert.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\raw_map_style.json.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_map_placeholder.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_map_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_hospital.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_tab_unselected.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_item_incident.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\item_incident.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\raw_alarm.mp3.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\raw\\alarm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_gradient_button_disabled.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_gradient_button_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_contacts.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\anim_pulse.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\anim\\pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_sos_glow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_sos_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_circle_cyan.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_circle_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_contacts.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_monitor.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_monitor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_map.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_tab_selected.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_sos_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_sos_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_gradient_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_gradient_button.xml"
+    },
+    {
+        "merged": "com.example.saferide.app-debug-4:/drawable_bg_glow_overlay.xml.flat",
+        "source": "com.example.saferide.app-main-6:/drawable/bg_glow_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_start.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_circle_cyan_soft.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_circle_cyan_soft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_circle_red_soft.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_circle_red_soft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_glow_overlay.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_glow_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\anim_scale_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_dialog_contact.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\dialog_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_siren.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_siren.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_logo_shield.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_logo_shield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_activity_alert.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\activity_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_chip_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_chip_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_monitor.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_monitor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_meter_inner.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_meter_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_glass_card_strong.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_glass_card_strong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_bg_glass_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\bg_glass_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-debug-4:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.0.0\\com.example.saferide.app-main-6:\\drawable\\ic_settings.xml"
+    }
+]
